@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
     - name: banana-app
-      image: dgruploads/httpd:1.0
+      image: dgruploads/httpd:1.0 # select the image from the docker.hub in tha same name
 
 ---
 
